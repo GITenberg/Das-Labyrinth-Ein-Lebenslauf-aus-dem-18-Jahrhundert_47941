@@ -1,15 +1,21 @@
 _repo: Das-Labyrinth-Ein-Lebenslauf-aus-dem-18-Jahrhundert_47941
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Wölfle, Alphons
     gutenberg_agent_id: '44535'
     url: http://www.gutenberg.org/2009/agents/44535
+covers:
+- cover_type: archival
+  image_path: 47941-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Seidel, Ina
     gutenberg_agent_id: '44534'
     url: http://www.gutenberg.org/2009/agents/44534
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47941#Das-Labyrinth-Ein-Lebenslauf-aus-dem-18-Jahrhundert
 gutenberg_issued: '2015-01-11'
 gutenberg_type: Text
 identifiers:
